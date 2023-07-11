@@ -1,0 +1,9 @@
+/* changes colors for social media links */
+.btn:hover {
+    color: #50C878;
+    border-color: #50C878;
+}
+
+.btn {
+    color: white;
+}
